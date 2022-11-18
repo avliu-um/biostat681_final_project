@@ -1,0 +1,63 @@
+,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+0,1,12,GER,0,,,"Ziesecke,Tobias",0 - 1,,"Oelmann,Daniel",,GER,0,7
+1,2,8,GER,0,,,"Wehrmann,Jens",1 - 0,,"Buerki,Alfred",,SUI,0,6
+2,3,9,SUI,0,,,"Schumacher,Ernst",0 - 1,,"Oelmann,Alexander",,GER,0,5
+3,4,10,GER,0,,,"Skibbe,Paul",0 - 1,,"Zakharov,Sergey Denis",,RUS,1021,4
+4,5,11,GRE,0,,,"Bumelis,Stelios",0 - 1,,"Höfer,Frank",,GER,1116,3
+5,6,1,GER,1141,,,"Ermitsch,Carolyn",0 - 1,,"Perlick,Michael",,GER,1121,2
+6,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+7,1,2,GER,1121,,,"Perlick,Michael",1 - 0,,"Ziesecke,Tobias",,GER,0,12
+8,2,3,GER,1116,,,"Höfer,Frank",½ - ½,,"Ermitsch,Carolyn",,GER,1141,1
+9,3,4,RUS,1021,,,"Zakharov,Sergey Denis",0 - 1,,"Bumelis,Stelios",,GRE,0,11
+10,4,5,GER,0,,,"Oelmann,Alexander",1 - 0,,"Skibbe,Paul",,GER,0,10
+11,5,6,SUI,0,,,"Buerki,Alfred",1 - 0,,"Schumacher,Ernst",,SUI,0,9
+12,6,7,GER,0,,,"Oelmann,Daniel",1 - 0,,"Wehrmann,Jens",,GER,0,8
+13,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+14,1,12,GER,0,,,"Ziesecke,Tobias",0 - 1,,"Wehrmann,Jens",,GER,0,8
+15,2,9,SUI,0,,,"Schumacher,Ernst",0 - 1,,"Oelmann,Daniel",,GER,0,7
+16,3,10,GER,0,,,"Skibbe,Paul",1 - 0,,"Buerki,Alfred",,SUI,0,6
+17,4,11,GRE,0,,,"Bumelis,Stelios",1 - 0,,"Oelmann,Alexander",,GER,0,5
+18,5,1,GER,1141,,,"Ermitsch,Carolyn",0 - 1,,"Zakharov,Sergey Denis",,RUS,1021,4
+19,6,2,GER,1121,,,"Perlick,Michael",1 - 0,,"Höfer,Frank",,GER,1116,3
+20,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+21,1,3,GER,1116,,,"Höfer,Frank",1 - 0,,"Ziesecke,Tobias",,GER,0,12
+22,2,4,RUS,1021,,,"Zakharov,Sergey Denis",0 - 1,,"Perlick,Michael",,GER,1121,2
+23,3,5,GER,0,,,"Oelmann,Alexander",0 - 1,,"Ermitsch,Carolyn",,GER,1141,1
+24,4,6,SUI,0,,,"Buerki,Alfred",0 - 1,,"Bumelis,Stelios",,GRE,0,11
+25,5,7,GER,0,,,"Oelmann,Daniel",1 - 0,,"Skibbe,Paul",,GER,0,10
+26,6,8,GER,0,,,"Wehrmann,Jens",½ - ½,,"Schumacher,Ernst",,SUI,0,9
+27,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+28,1,12,GER,0,,,"Ziesecke,Tobias",1 - 0,,"Schumacher,Ernst",,SUI,0,9
+29,2,10,GER,0,,,"Skibbe,Paul",0 - 1,,"Wehrmann,Jens",,GER,0,8
+30,3,11,GRE,0,,,"Bumelis,Stelios",0 - 1,,"Oelmann,Daniel",,GER,0,7
+31,4,1,GER,1141,,,"Ermitsch,Carolyn",1 - 0,,"Buerki,Alfred",,SUI,0,6
+32,5,2,GER,1121,,,"Perlick,Michael",1 - 0,,"Oelmann,Alexander",,GER,0,5
+33,6,3,GER,1116,,,"Höfer,Frank",0 - 1,,"Zakharov,Sergey Denis",,RUS,1021,4
+34,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+35,1,4,RUS,1021,,,"Zakharov,Sergey Denis",1 - 0,,"Ziesecke,Tobias",,GER,0,12
+36,2,5,GER,0,,,"Oelmann,Alexander",1 - 0,,"Höfer,Frank",,GER,1116,3
+37,3,6,SUI,0,,,"Buerki,Alfred",0 - 1,,"Perlick,Michael",,GER,1121,2
+38,4,7,GER,0,,,"Oelmann,Daniel",0 - 1,,"Ermitsch,Carolyn",,GER,1141,1
+39,5,8,GER,0,,,"Wehrmann,Jens",0 - 1,,"Bumelis,Stelios",,GRE,0,11
+40,6,9,SUI,0,,,"Schumacher,Ernst",0 - 1,,"Skibbe,Paul",,GER,0,10
+41,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+42,1,12,GER,0,,,"Ziesecke,Tobias",1 - 0,,"Skibbe,Paul",,GER,0,10
+43,2,11,GRE,0,,,"Bumelis,Stelios",1 - 0,,"Schumacher,Ernst",,SUI,0,9
+44,3,1,GER,1141,,,"Ermitsch,Carolyn",½ - ½,,"Wehrmann,Jens",,GER,0,8
+45,4,2,GER,1121,,,"Perlick,Michael",1 - 0,,"Oelmann,Daniel",,GER,0,7
+46,5,3,GER,1116,,,"Höfer,Frank",1 - 0,,"Buerki,Alfred",,SUI,0,6
+47,6,4,RUS,1021,,,"Zakharov,Sergey Denis",½ - ½,,"Oelmann,Alexander",,GER,0,5
+48,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+49,1,5,GER,0,,,"Oelmann,Alexander",0 - 1,,"Ziesecke,Tobias",,GER,0,12
+50,2,6,SUI,0,,,"Buerki,Alfred",0 - 1,,"Zakharov,Sergey Denis",,RUS,1021,4
+51,3,7,GER,0,,,"Oelmann,Daniel",1 - 0,,"Höfer,Frank",,GER,1116,3
+52,4,8,GER,0,,,"Wehrmann,Jens",½ - ½,,"Perlick,Michael",,GER,1121,2
+53,5,9,SUI,0,,,"Schumacher,Ernst",0 - 1,,"Ermitsch,Carolyn",,GER,1141,1
+54,6,10,GER,0,,,"Skibbe,Paul",0 - 1,,"Bumelis,Stelios",,GRE,0,11
+55,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+56,1,12,GER,0,,,"Ziesecke,Tobias",0 - 1,,"Bumelis,Stelios",,GRE,0,11
+57,2,1,GER,1141,,,"Ermitsch,Carolyn",1 - 0,,"Skibbe,Paul",,GER,0,10
+58,3,2,GER,1121,,,"Perlick,Michael",1 - 0,,"Schumacher,Ernst",,SUI,0,9
+59,4,3,GER,1116,,,"Höfer,Frank",1 - 0,,"Wehrmann,Jens",,GER,0,8
+60,5,4,RUS,1021,,,"Zakharov,Sergey Denis",0 - 1,,"Oelmann,Daniel",,GER,0,7
+61,6,5,GER,0,,,"Oelmann,Alexander",1 - 0,,"Buerki,Alfred",,SUI,0,6

@@ -1,0 +1,54 @@
+,Bo.,No.,Rtg,,Name,Result,,Name,Rtg,No.,PGN
+0,1,1,2426,GM,Antonio Rogelio Jr,1 - 0,NM,Cabellon Gerardo,2132,10,PGN
+1,2,2,2176,IM,Nadera Barlo A.,½ - ½,IM,Miciano John Marvin,1962,9,PGN
+2,3,3,2470,GM,Gomez John Paul,0 - 1,IM,Nolte Rolando,2385,8,PGN
+3,4,4,2286,IM,Bersamina Paulo,½ - ½,GM,Laylo Darwin,2337,7,PGN
+4,5,5,2202,IM,Bancod Ronald,0 - 1,IM,Garcia Jan Emmanuel,2350,6,PGN
+5,Bo.,No.,Rtg,,Name,Result,,Name,Rtg,No.,PGN
+6,1,10,2132,NM,Cabellon Gerardo,1 - 0,IM,Garcia Jan Emmanuel,2350,6,PGN
+7,2,7,2337,GM,Laylo Darwin,1 - 0,IM,Bancod Ronald,2202,5,PGN
+8,3,8,2385,IM,Nolte Rolando,0 - 1,IM,Bersamina Paulo,2286,4,PGN
+9,4,9,1962,IM,Miciano John Marvin,0 - 1,GM,Gomez John Paul,2470,3,PGN
+10,5,1,2426,GM,Antonio Rogelio Jr,½ - ½,IM,Nadera Barlo A.,2176,2,PGN
+11,Bo.,No.,Rtg,,Name,Result,,Name,Rtg,No.,PGN
+12,1,2,2176,IM,Nadera Barlo A.,0 - 1,NM,Cabellon Gerardo,2132,10,PGN
+13,2,3,2470,GM,Gomez John Paul,½ - ½,GM,Antonio Rogelio Jr,2426,1,PGN
+14,3,4,2286,IM,Bersamina Paulo,½ - ½,IM,Miciano John Marvin,1962,9,PGN
+15,4,5,2202,IM,Bancod Ronald,½ - ½,IM,Nolte Rolando,2385,8,PGN
+16,5,6,2350,IM,Garcia Jan Emmanuel,½ - ½,GM,Laylo Darwin,2337,7,PGN
+17,Bo.,No.,Rtg,,Name,Result,,Name,Rtg,No.,PGN
+18,1,10,2132,NM,Cabellon Gerardo,½ - ½,GM,Laylo Darwin,2337,7,PGN
+19,2,8,2385,IM,Nolte Rolando,0 - 1,IM,Garcia Jan Emmanuel,2350,6,PGN
+20,3,9,1962,IM,Miciano John Marvin,1 - 0,IM,Bancod Ronald,2202,5,PGN
+21,4,1,2426,GM,Antonio Rogelio Jr,½ - ½,IM,Bersamina Paulo,2286,4,PGN
+22,5,2,2176,IM,Nadera Barlo A.,0 - 1,GM,Gomez John Paul,2470,3,PGN
+23,Bo.,No.,Rtg,,Name,Result,,Name,Rtg,No.,PGN
+24,1,3,2470,GM,Gomez John Paul,1 - 0,NM,Cabellon Gerardo,2132,10,PGN
+25,2,4,2286,IM,Bersamina Paulo,1 - 0,IM,Nadera Barlo A.,2176,2,PGN
+26,3,5,2202,IM,Bancod Ronald,0 - 1,GM,Antonio Rogelio Jr,2426,1,PGN
+27,4,6,2350,IM,Garcia Jan Emmanuel,1 - 0,IM,Miciano John Marvin,1962,9,PGN
+28,5,7,2337,GM,Laylo Darwin,½ - ½,IM,Nolte Rolando,2385,8,PGN
+29,Bo.,No.,Rtg,,Name,Result,,Name,Rtg,No.,PGN
+30,1,10,2132,NM,Cabellon Gerardo,0 - 1,IM,Nolte Rolando,2385,8,PGN
+31,2,9,1962,IM,Miciano John Marvin,½ - ½,GM,Laylo Darwin,2337,7,PGN
+32,3,1,2426,GM,Antonio Rogelio Jr,½ - ½,IM,Garcia Jan Emmanuel,2350,6,PGN
+33,4,2,2176,IM,Nadera Barlo A.,0 - 1,IM,Bancod Ronald,2202,5,PGN
+34,5,3,2470,GM,Gomez John Paul,1 - 0,IM,Bersamina Paulo,2286,4,PGN
+35,Bo.,No.,Rtg,,Name,Result,,Name,Rtg,No.,PGN
+36,1,4,2286,IM,Bersamina Paulo,1 - 0,NM,Cabellon Gerardo,2132,10,PGN
+37,2,5,2202,IM,Bancod Ronald,½ - ½,GM,Gomez John Paul,2470,3,PGN
+38,3,6,2350,IM,Garcia Jan Emmanuel,½ - ½,IM,Nadera Barlo A.,2176,2,PGN
+39,4,7,2337,GM,Laylo Darwin,½ - ½,GM,Antonio Rogelio Jr,2426,1,PGN
+40,5,8,2385,IM,Nolte Rolando,½ - ½,IM,Miciano John Marvin,1962,9,PGN
+41,Bo.,No.,Rtg,,Name,Result,,Name,Rtg,No.,PGN
+42,1,10,2132,NM,Cabellon Gerardo,½ - ½,IM,Miciano John Marvin,1962,9,PGN
+43,2,1,2426,GM,Antonio Rogelio Jr,½ - ½,IM,Nolte Rolando,2385,8,PGN
+44,3,2,2176,IM,Nadera Barlo A.,0 - 1,GM,Laylo Darwin,2337,7,PGN
+45,4,3,2470,GM,Gomez John Paul,½ - ½,IM,Garcia Jan Emmanuel,2350,6,PGN
+46,5,4,2286,IM,Bersamina Paulo,1 - 0,IM,Bancod Ronald,2202,5,PGN
+47,Bo.,No.,Rtg,,Name,Result,,Name,Rtg,No.,PGN
+48,1,5,2202,IM,Bancod Ronald,0 - 1,NM,Cabellon Gerardo,2132,10,PGN
+49,2,6,2350,IM,Garcia Jan Emmanuel,½ - ½,IM,Bersamina Paulo,2286,4,PGN
+50,3,7,2337,GM,Laylo Darwin,1 - 0,GM,Gomez John Paul,2470,3,PGN
+51,4,8,2385,IM,Nolte Rolando,0 - 1,IM,Nadera Barlo A.,2176,2,PGN
+52,5,9,1962,IM,Miciano John Marvin,½ - ½,GM,Antonio Rogelio Jr,2426,1,PGN

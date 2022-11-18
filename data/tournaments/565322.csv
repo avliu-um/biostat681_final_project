@@ -1,0 +1,45 @@
+,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+0,1,3,POL,1938,,,"Sielicki,Tomasz",1,,bye,,,0,-1
+1,2,4,GER,1929,,,"Schaefer,Martin,Dr.",1 - 0,,"Menzinger,Peter,Dr.",,GER,1938,2
+2,3,5,BEL,1908,,,"Van de Wynkele,Rudy",0 - 1,,"Spanton,Timothy",,ENG,1998,1
+3,4,6,AUT,1891,,,"Zimmermann,Curt",1 - 0,,"Jhunjhnuwala,Suresh",,USA,1870,7
+4,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+5,1,1,ENG,1998,,,"Spanton,Timothy",1,,bye,,,0,-1
+6,2,2,GER,1938,,,"Menzinger,Peter,Dr.",½ - ½,,"Jhunjhnuwala,Suresh",,USA,1870,7
+7,3,3,POL,1938,,,"Sielicki,Tomasz",1 - 0,,"Zimmermann,Curt",,AUT,1891,6
+8,4,4,GER,1929,,,"Schaefer,Martin,Dr.",1 - 0,,"Van de Wynkele,Rudy",,BEL,1908,5
+9,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+10,1,5,BEL,1908,,,"Van de Wynkele,Rudy",1,,bye,,,0,-1
+11,2,6,AUT,1891,,,"Zimmermann,Curt",0 - 1,,"Schaefer,Martin,Dr.",,GER,1929,4
+12,3,7,USA,1870,,,"Jhunjhnuwala,Suresh",0 - 1,,"Sielicki,Tomasz",,POL,1938,3
+13,4,1,ENG,1998,,,"Spanton,Timothy",½ - ½,,"Menzinger,Peter,Dr.",,GER,1938,2
+14,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+15,1,2,GER,1938,,,"Menzinger,Peter,Dr.",1,,bye,,,0,-1
+16,2,3,POL,1938,,,"Sielicki,Tomasz",1 - 0,,"Spanton,Timothy",,ENG,1998,1
+17,3,4,GER,1929,,,"Schaefer,Martin,Dr.",½ - ½,,"Jhunjhnuwala,Suresh",,USA,1870,7
+18,4,5,BEL,1908,,,"Van de Wynkele,Rudy",1 - 0,,"Zimmermann,Curt",,AUT,1891,6
+19,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+20,1,6,AUT,1891,,,"Zimmermann,Curt",1,,bye,,,0,-1
+21,2,7,USA,1870,,,"Jhunjhnuwala,Suresh",0 - 1,,"Van de Wynkele,Rudy",,BEL,1908,5
+22,3,1,ENG,1998,,,"Spanton,Timothy",1 - 0,,"Schaefer,Martin,Dr.",,GER,1929,4
+23,4,2,GER,1938,,,"Menzinger,Peter,Dr.",½ - ½,,"Sielicki,Tomasz",,POL,1938,3
+24,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+25,1,7,USA,1870,,,"Jhunjhnuwala,Suresh",1,,bye,,,0,-1
+26,2,1,ENG,1998,,,"Spanton,Timothy",1 - 0,,"Zimmermann,Curt",,AUT,1891,6
+27,3,2,GER,1938,,,"Menzinger,Peter,Dr.",0 - 1,,"Van de Wynkele,Rudy",,BEL,1908,5
+28,4,3,POL,1938,,,"Sielicki,Tomasz",1 - 0,,"Schaefer,Martin,Dr.",,GER,1929,4
+29,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+30,1,4,GER,1929,,,"Schaefer,Martin,Dr.",1,,bye,,,0,-1
+31,2,5,BEL,1908,,,"Van de Wynkele,Rudy",½ - ½,,"Sielicki,Tomasz",,POL,1938,3
+32,3,6,AUT,1891,,,"Zimmermann,Curt",1 - 0,,"Menzinger,Peter,Dr.",,GER,1938,2
+33,4,7,USA,1870,,,"Jhunjhnuwala,Suresh",1 - 0,,"Spanton,Timothy",,ENG,1998,1
+34,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+35,1,4,GER,1929,,,"Schaefer,Martin,Dr.",1 - 0,,"Zimmermann,Curt",,AUT,1891,6
+36,2,1,ENG,1998,,,"Spanton,Timothy",1 - 0,,"Sielicki,Tomasz",,POL,1938,3
+37,3,5,BEL,1908,,,"Van de Wynkele,Rudy",1 - 0,,"Jhunjhnuwala,Suresh",,USA,1870,7
+38,4,2,GER,1938,,,"Menzinger,Peter,Dr.",1,,bye,,,0,-1
+39,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+40,1,3,POL,1938,,,"Sielicki,Tomasz",1 - 0,,"Van de Wynkele,Rudy",,BEL,1908,5
+41,2,4,GER,1929,,,"Schaefer,Martin,Dr.",0 - 1,,"Spanton,Timothy",,ENG,1998,1
+42,3,2,GER,1938,,,"Menzinger,Peter,Dr.",½ - ½,,"Jhunjhnuwala,Suresh",,USA,1870,7
+43,4,6,AUT,1891,,,"Zimmermann,Curt",1,,bye,,,0,-1

@@ -1,0 +1,36 @@
+,Bo.,No.,Name,Result,Name,No.
+0,1,1,"Bade,Uwe",1,bye,-1
+1,2,2,"Neumann,Joachim",0 - 1,"Kümpers,Ulrich",5
+2,3,3,"Van de Wynkele,Eric",1 - 0,"Paus,Franz",4
+3,Bo.,No.,Name,Result,Name,No.
+4,1,4,"Paus,Franz",1,bye,-1
+5,2,5,"Kümpers,Ulrich",1 - 0,"Van de Wynkele,Eric",3
+6,3,1,"Bade,Uwe",0 - 1,"Neumann,Joachim",2
+7,Bo.,No.,Name,Result,Name,No.
+8,1,2,"Neumann,Joachim",1,bye,-1
+9,2,3,"Van de Wynkele,Eric",1 - 0,"Bade,Uwe",1
+10,3,4,"Paus,Franz",½ - ½,"Kümpers,Ulrich",5
+11,Bo.,No.,Name,Result,Name,No.
+12,1,5,"Kümpers,Ulrich",1,bye,-1
+13,2,1,"Bade,Uwe",½ - ½,"Paus,Franz",4
+14,3,2,"Neumann,Joachim",0 - 1,"Van de Wynkele,Eric",3
+15,Bo.,No.,Name,Result,Name,No.
+16,1,3,"Van de Wynkele,Eric",1,bye,-1
+17,2,4,"Paus,Franz",½ - ½,"Neumann,Joachim",2
+18,3,5,"Kümpers,Ulrich",1 - 0,"Bade,Uwe",1
+19,Bo.,No.,Name,Result,Name,No.
+20,1,1,"Bade,Uwe",1,bye,-1
+21,2,5,"Kümpers,Ulrich",½ - ½,"Neumann,Joachim",2
+22,3,4,"Paus,Franz",½ - ½,"Van de Wynkele,Eric",3
+23,Bo.,No.,Name,Result,Name,No.
+24,1,4,"Paus,Franz",1,bye,-1
+25,2,3,"Van de Wynkele,Eric",0 - 1,"Kümpers,Ulrich",5
+26,3,2,"Neumann,Joachim",½ - ½,"Bade,Uwe",1
+27,Bo.,No.,Name,Result,Name,No.
+28,1,2,"Neumann,Joachim",1,bye,-1
+29,2,1,"Bade,Uwe",1 - 0,"Van de Wynkele,Eric",3
+30,3,5,"Kümpers,Ulrich",½ - ½,"Paus,Franz",4
+31,Bo.,No.,Name,Result,Name,No.
+32,1,5,"Kümpers,Ulrich",1,bye,-1
+33,2,4,"Paus,Franz",0 - 1,"Bade,Uwe",1
+34,3,3,"Van de Wynkele,Eric",0 - 1,"Neumann,Joachim",2

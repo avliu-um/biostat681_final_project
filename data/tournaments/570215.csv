@@ -1,0 +1,63 @@
+,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+0,1,7,SUI,1938,,,"Binder,Beat",1,,bye,,,0,-1
+1,2,8,BUL,1874,,,"Kostov,Kiril",1 - 0,,"Oelmann,Henry",,GER,1947,6
+2,3,9,ESP,1839,,,"Ramos Florido,Jose Maria",0 - 1,,"Raabe,Stefan",,GER,1951,5
+3,4,10,RUS,1830,,,"Zakharov,Denis",0 - 1,,"Gambini,Stephane",,FRA,1952,4
+4,5,11,ISR,1823,,,"Feigenbaum,Chen",½ - ½,,"Müller,Sebastian",,GER,1974,3
+5,6,1,GER,1997,,,"Boyens,Birger",1 - 0,,"Ritter,Uwe",,GER,1990,2
+6,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+7,1,2,GER,1990,,,"Ritter,Uwe",1,,bye,,,0,-1
+8,2,3,GER,1974,,,"Müller,Sebastian",1 - 0,,"Boyens,Birger",,GER,1997,1
+9,3,4,FRA,1952,,,"Gambini,Stephane",½ - ½,,"Feigenbaum,Chen",,ISR,1823,11
+10,4,5,GER,1951,,,"Raabe,Stefan",0 - 1,,"Zakharov,Denis",,RUS,1830,10
+11,5,6,GER,1947,,,"Oelmann,Henry",1 - 0,,"Ramos Florido,Jose Maria",,ESP,1839,9
+12,6,7,SUI,1938,,,"Binder,Beat",0 - 1,,"Kostov,Kiril",,BUL,1874,8
+13,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+14,1,8,BUL,1874,,,"Kostov,Kiril",1,,bye,,,0,-1
+15,2,9,ESP,1839,,,"Ramos Florido,Jose Maria",0 - 1,,"Binder,Beat",,SUI,1938,7
+16,3,10,RUS,1830,,,"Zakharov,Denis",½ - ½,,"Oelmann,Henry",,GER,1947,6
+17,4,11,ISR,1823,,,"Feigenbaum,Chen",0 - 1,,"Raabe,Stefan",,GER,1951,5
+18,5,1,GER,1997,,,"Boyens,Birger",0 - 1,,"Gambini,Stephane",,FRA,1952,4
+19,6,2,GER,1990,,,"Ritter,Uwe",½ - ½,,"Müller,Sebastian",,GER,1974,3
+20,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+21,1,3,GER,1974,,,"Müller,Sebastian",1,,bye,,,0,-1
+22,2,4,FRA,1952,,,"Gambini,Stephane",½ - ½,,"Ritter,Uwe",,GER,1990,2
+23,3,5,GER,1951,,,"Raabe,Stefan",1 - 0,,"Boyens,Birger",,GER,1997,1
+24,4,6,GER,1947,,,"Oelmann,Henry",1 - 0,,"Feigenbaum,Chen",,ISR,1823,11
+25,5,7,SUI,1938,,,"Binder,Beat",0 - 1,,"Zakharov,Denis",,RUS,1830,10
+26,6,8,BUL,1874,,,"Kostov,Kiril",½ - ½,,"Ramos Florido,Jose Maria",,ESP,1839,9
+27,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+28,1,9,ESP,1839,,,"Ramos Florido,Jose Maria",1,,bye,,,0,-1
+29,2,10,RUS,1830,,,"Zakharov,Denis",0 - 1,,"Kostov,Kiril",,BUL,1874,8
+30,3,11,ISR,1823,,,"Feigenbaum,Chen",1 - 0,,"Binder,Beat",,SUI,1938,7
+31,4,1,GER,1997,,,"Boyens,Birger",1 - 0,,"Oelmann,Henry",,GER,1947,6
+32,5,2,GER,1990,,,"Ritter,Uwe",0 - 1,,"Raabe,Stefan",,GER,1951,5
+33,6,3,GER,1974,,,"Müller,Sebastian",½ - ½,,"Gambini,Stephane",,FRA,1952,4
+34,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+35,1,4,FRA,1952,,,"Gambini,Stephane",1,,bye,,,0,-1
+36,2,5,GER,1951,,,"Raabe,Stefan",½ - ½,,"Müller,Sebastian",,GER,1974,3
+37,3,6,GER,1947,,,"Oelmann,Henry",0 - 1,,"Ritter,Uwe",,GER,1990,2
+38,4,7,SUI,1938,,,"Binder,Beat",0 - 1,,"Boyens,Birger",,GER,1997,1
+39,5,8,BUL,1874,,,"Kostov,Kiril",1 - 0,,"Feigenbaum,Chen",,ISR,1823,11
+40,6,9,ESP,1839,,,"Ramos Florido,Jose Maria",0 - 1,,"Zakharov,Denis",,RUS,1830,10
+41,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+42,1,10,RUS,1830,,,"Zakharov,Denis",1,,bye,,,0,-1
+43,2,11,ISR,1823,,,"Feigenbaum,Chen",0 - 1,,"Ramos Florido,Jose Maria",,ESP,1839,9
+44,3,1,GER,1997,,,"Boyens,Birger",0 - 1,,"Kostov,Kiril",,BUL,1874,8
+45,4,2,GER,1990,,,"Ritter,Uwe",0 - 1,,"Binder,Beat",,SUI,1938,7
+46,5,3,GER,1974,,,"Müller,Sebastian",0 - 1,,"Oelmann,Henry",,GER,1947,6
+47,6,4,FRA,1952,,,"Gambini,Stephane",1 - 0,,"Raabe,Stefan",,GER,1951,5
+48,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+49,1,5,GER,1951,,,"Raabe,Stefan",1,,bye,,,0,-1
+50,2,6,GER,1947,,,"Oelmann,Henry",0 - 1,,"Gambini,Stephane",,FRA,1952,4
+51,3,7,SUI,1938,,,"Binder,Beat",0 - 1,,"Müller,Sebastian",,GER,1974,3
+52,4,8,BUL,1874,,,"Kostov,Kiril",0 - 1,,"Ritter,Uwe",,GER,1990,2
+53,5,9,ESP,1839,,,"Ramos Florido,Jose Maria",½ - ½,,"Boyens,Birger",,GER,1997,1
+54,6,10,RUS,1830,,,"Zakharov,Denis",0 - 1,,"Feigenbaum,Chen",,ISR,1823,11
+55,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+56,1,11,ISR,1823,,,"Feigenbaum,Chen",1,,bye,,,0,-1
+57,2,1,GER,1997,,,"Boyens,Birger",0 - 1,,"Zakharov,Denis",,RUS,1830,10
+58,3,2,GER,1990,,,"Ritter,Uwe",0 - 1,,"Ramos Florido,Jose Maria",,ESP,1839,9
+59,4,3,GER,1974,,,"Müller,Sebastian",0 - 1,,"Kostov,Kiril",,BUL,1874,8
+60,5,4,FRA,1952,,,"Gambini,Stephane",½ - ½,,"Binder,Beat",,SUI,1938,7
+61,6,5,GER,1951,,,"Raabe,Stefan",½ - ½,,"Oelmann,Henry",,GER,1947,6

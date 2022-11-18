@@ -1,0 +1,70 @@
+,Bo.,No.,Rtg, ,,Name,Result,,Name, ,Rtg,No.
+0,1,1,2767,,GM,Vachier-Lagrave Maxime,½ - ½,GM,Caruana Fabiano,,2842,8
+1,2,2,2805,,GM,Ding Liren,0 - 1,GM,Wang Hao,,2762,7
+2,3,3,2763,,GM,Giri Anish,0 - 1,GM,Nepomniachtchi Ian,,2774,6
+3,4,4,2777,,GM,Grischuk Alexander,½ - ½,GM,Alekseenko Kirill,,2698,5
+4,Bo.,No.,Rtg, ,,Name,Result,,Name, ,Rtg,No.
+5,1,8,2842,,GM,Caruana Fabiano,1 - 0,GM,Alekseenko Kirill,,2698,5
+6,2,6,2774,,GM,Nepomniachtchi Ian,½ - ½,GM,Grischuk Alexander,,2777,4
+7,3,7,2762,,GM,Wang Hao,½ - ½,GM,Giri Anish,,2763,3
+8,4,1,2767,,GM,Vachier-Lagrave Maxime,1 - 0,GM,Ding Liren,,2805,2
+9,Bo.,No.,Rtg, ,,Name,Result,,Name, ,Rtg,No.
+10,1,2,2805,,GM,Ding Liren,1 - 0,GM,Caruana Fabiano,,2842,8
+11,2,3,2763,,GM,Giri Anish,½ - ½,GM,Vachier-Lagrave Maxime,,2767,1
+12,3,4,2777,,GM,Grischuk Alexander,½ - ½,GM,Wang Hao,,2762,7
+13,4,5,2698,,GM,Alekseenko Kirill,½ - ½,GM,Nepomniachtchi Ian,,2774,6
+14,Bo.,No.,Rtg, ,,Name,Result,,Name, ,Rtg,No.
+15,1,8,2842,,GM,Caruana Fabiano,½ - ½,GM,Nepomniachtchi Ian,,2774,6
+16,2,7,2762,,GM,Wang Hao,½ - ½,GM,Alekseenko Kirill,,2698,5
+17,3,1,2767,,GM,Vachier-Lagrave Maxime,½ - ½,GM,Grischuk Alexander,,2777,4
+18,4,2,2805,,GM,Ding Liren,½ - ½,GM,Giri Anish,,2763,3
+19,Bo.,No.,Rtg, ,,Name,Result,,Name, ,Rtg,No.
+20,1,3,2763,,GM,Giri Anish,½ - ½,GM,Caruana Fabiano,,2842,8
+21,2,4,2777,,GM,Grischuk Alexander,½ - ½,GM,Ding Liren,,2805,2
+22,3,5,2698,,GM,Alekseenko Kirill,½ - ½,GM,Vachier-Lagrave Maxime,,2767,1
+23,4,6,2774,,GM,Nepomniachtchi Ian,1 - 0,GM,Wang Hao,,2762,7
+24,Bo.,No.,Rtg, ,,Name,Result,,Name, ,Rtg,No.
+25,1,4,2777,,GM,Grischuk Alexander,½ - ½,GM,Caruana Fabiano,,2842,8
+26,2,5,2698,,GM,Alekseenko Kirill,0 - 1,GM,Giri Anish,,2763,3
+27,3,6,2774,,GM,Nepomniachtchi Ian,1 - 0,GM,Ding Liren,,2805,2
+28,4,7,2762,,GM,Wang Hao,½ - ½,GM,Vachier-Lagrave Maxime,,2767,1
+29,Bo.,No.,Rtg, ,,Name,Result,,Name, ,Rtg,No.
+30,1,8,2842,,GM,Caruana Fabiano,½ - ½,GM,Wang Hao,,2762,7
+31,2,1,2767,,GM,Vachier-Lagrave Maxime,1 - 0,GM,Nepomniachtchi Ian,,2774,6
+32,3,2,2805,,GM,Ding Liren,½ - ½,GM,Alekseenko Kirill,,2698,5
+33,4,3,2763,,GM,Giri Anish,½ - ½,GM,Grischuk Alexander,,2777,4
+34,Bo.,No.,Rtg, ,,Name,Result,,Name, ,Rtg,No.
+35,1,8,2842,,GM,Caruana Fabiano,,GM,Vachier-Lagrave Maxime,,2767,1
+36,2,7,2762,,GM,Wang Hao,,GM,Ding Liren,,2805,2
+37,3,6,2774,,GM,Nepomniachtchi Ian,,GM,Giri Anish,,2763,3
+38,4,5,2698,,GM,Alekseenko Kirill,,GM,Grischuk Alexander,,2777,4
+39,Bo.,No.,Rtg, ,,Name,Result,,Name, ,Rtg,No.
+40,1,5,2698,,GM,Alekseenko Kirill,,GM,Caruana Fabiano,,2842,8
+41,2,4,2777,,GM,Grischuk Alexander,,GM,Nepomniachtchi Ian,,2774,6
+42,3,3,2763,,GM,Giri Anish,,GM,Wang Hao,,2762,7
+43,4,2,2805,,GM,Ding Liren,,GM,Vachier-Lagrave Maxime,,2767,1
+44,Bo.,No.,Rtg, ,,Name,Result,,Name, ,Rtg,No.
+45,1,8,2842,,GM,Caruana Fabiano,,GM,Ding Liren,,2805,2
+46,2,1,2767,,GM,Vachier-Lagrave Maxime,,GM,Giri Anish,,2763,3
+47,3,7,2762,,GM,Wang Hao,,GM,Grischuk Alexander,,2777,4
+48,4,6,2774,,GM,Nepomniachtchi Ian,,GM,Alekseenko Kirill,,2698,5
+49,Bo.,No.,Rtg, ,,Name,Result,,Name, ,Rtg,No.
+50,1,6,2774,,GM,Nepomniachtchi Ian,,GM,Caruana Fabiano,,2842,8
+51,2,5,2698,,GM,Alekseenko Kirill,,GM,Wang Hao,,2762,7
+52,3,4,2777,,GM,Grischuk Alexander,,GM,Vachier-Lagrave Maxime,,2767,1
+53,4,3,2763,,GM,Giri Anish,,GM,Ding Liren,,2805,2
+54,Bo.,No.,Rtg, ,,Name,Result,,Name, ,Rtg,No.
+55,1,8,2842,,GM,Caruana Fabiano,,GM,Giri Anish,,2763,3
+56,2,2,2805,,GM,Ding Liren,,GM,Grischuk Alexander,,2777,4
+57,3,1,2767,,GM,Vachier-Lagrave Maxime,,GM,Alekseenko Kirill,,2698,5
+58,4,7,2762,,GM,Wang Hao,,GM,Nepomniachtchi Ian,,2774,6
+59,Bo.,No.,Rtg, ,,Name,Result,,Name, ,Rtg,No.
+60,1,7,2762,,GM,Wang Hao,,GM,Caruana Fabiano,,2842,8
+61,2,6,2774,,GM,Nepomniachtchi Ian,,GM,Vachier-Lagrave Maxime,,2767,1
+62,3,5,2698,,GM,Alekseenko Kirill,,GM,Ding Liren,,2805,2
+63,4,4,2777,,GM,Grischuk Alexander,,GM,Giri Anish,,2763,3
+64,Bo.,No.,Rtg, ,,Name,Result,,Name, ,Rtg,No.
+65,1,8,2842,,GM,Caruana Fabiano,,GM,Grischuk Alexander,,2777,4
+66,2,3,2763,,GM,Giri Anish,,GM,Alekseenko Kirill,,2698,5
+67,3,2,2805,,GM,Ding Liren,,GM,Nepomniachtchi Ian,,2774,6
+68,4,1,2767,,GM,Vachier-Lagrave Maxime,,GM,Wang Hao,,2762,7

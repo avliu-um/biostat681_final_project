@@ -1,0 +1,45 @@
+,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+0,1,6,FRA,1427,,,"Oster,Jean-Marie",1,,bye,,,0,-1
+1,2,5,GER,1467,,,"Vetter,Gerhard",0 - 1,,"Skembris,Simon Max",,GER,1421,7
+2,3,4,GER,1506,,,"Fernandez,Thomas",0 - 1,,"Silini,Brahim",,GER,1600,1
+3,4,3,GER,1550,,,"Krause,Marianne",0 - 1,,"Nadler,Bernhard",,SUI,1598,2
+4,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+5,1,2,SUI,1598,,,"Nadler,Bernhard",1,,bye,,,0,-1
+6,2,1,GER,1600,,,"Silini,Brahim",0 - 1,,"Krause,Marianne",,GER,1550,3
+7,3,7,GER,1421,,,"Skembris,Simon Max",1 - 0,,"Fernandez,Thomas",,GER,1506,4
+8,4,6,FRA,1427,,,"Oster,Jean-Marie",½ - ½,,"Vetter,Gerhard",,GER,1467,5
+9,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+10,1,5,GER,1467,,,"Vetter,Gerhard",1,,bye,,,0,-1
+11,2,4,GER,1506,,,"Fernandez,Thomas",1 - 0,,"Oster,Jean-Marie",,FRA,1427,6
+12,3,3,GER,1550,,,"Krause,Marianne",1 - 0,,"Skembris,Simon Max",,GER,1421,7
+13,4,2,SUI,1598,,,"Nadler,Bernhard",½ - ½,,"Silini,Brahim",,GER,1600,1
+14,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+15,1,1,GER,1600,,,"Silini,Brahim",1,,bye,,,0,-1
+16,2,7,GER,1421,,,"Skembris,Simon Max",1 - 0,,"Nadler,Bernhard",,SUI,1598,2
+17,3,6,FRA,1427,,,"Oster,Jean-Marie",0 - 1,,"Krause,Marianne",,GER,1550,3
+18,4,5,GER,1467,,,"Vetter,Gerhard",0 - 1,,"Fernandez,Thomas",,GER,1506,4
+19,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+20,1,3,GER,1550,,,"Krause,Marianne",1,,bye,,,0,-1
+21,2,2,SUI,1598,,,"Nadler,Bernhard",0 - 1,,"Fernandez,Thomas",,GER,1506,4
+22,3,1,GER,1600,,,"Silini,Brahim",0 - 1,,"Vetter,Gerhard",,GER,1467,5
+23,4,7,GER,1421,,,"Skembris,Simon Max",1 - 0,,"Oster,Jean-Marie",,FRA,1427,6
+24,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+25,1,7,GER,1421,,,"Skembris,Simon Max",1,,bye,,,0,-1
+26,2,6,FRA,1427,,,"Oster,Jean-Marie",0 - 1,,"Silini,Brahim",,GER,1600,1
+27,3,5,GER,1467,,,"Vetter,Gerhard",0 - 1,,"Nadler,Bernhard",,SUI,1598,2
+28,4,4,GER,1506,,,"Fernandez,Thomas",½ - ½,,"Krause,Marianne",,GER,1550,3
+29,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+30,1,4,GER,1506,,,"Fernandez,Thomas",1,,bye,,,0,-1
+31,2,3,GER,1550,,,"Krause,Marianne",½ - ½,,"Vetter,Gerhard",,GER,1467,5
+32,3,2,SUI,1598,,,"Nadler,Bernhard",0 - 1,,"Oster,Jean-Marie",,FRA,1427,6
+33,4,1,GER,1600,,,"Silini,Brahim",0 - 1,,"Skembris,Simon Max",,GER,1421,7
+34,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+35,1,7,GER,1421,,,"Skembris,Simon Max",½ - ½,,"Krause,Marianne",,GER,1550,3
+36,2,4,GER,1506,,,"Fernandez,Thomas",1 - 0,,"Nadler,Bernhard",,SUI,1598,2
+37,3,5,GER,1467,,,"Vetter,Gerhard",0 - 1,,"Silini,Brahim",,GER,1600,1
+38,4,6,FRA,1427,,,"Oster,Jean-Marie",1,,bye,,,0,-1
+39,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+40,1,4,GER,1506,,,"Fernandez,Thomas",½ - ½,,"Skembris,Simon Max",,GER,1421,7
+41,2,3,GER,1550,,,"Krause,Marianne",½ - ½,,"Silini,Brahim",,GER,1600,1
+42,3,6,FRA,1427,,,"Oster,Jean-Marie",0 - 1,,"Nadler,Bernhard",,SUI,1598,2
+43,4,5,GER,1467,,,"Vetter,Gerhard",1,,bye,,,0,-1

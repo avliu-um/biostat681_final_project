@@ -1,0 +1,54 @@
+,Bo.,No.,Rtg,,Name,Result,,Name,Rtg,No.
+0,1,1,1393,,"Mulder,Ben",0,,bye,0,-1
+1,2,9,1210,,"De Hoop,Roelof",1 - 0,,"Priestley,Joseph",1391,2
+2,3,8,1256,,"Hebenstreit,Walter",1 - 0,,"Beddegenoodts,Marc",1382,3
+3,4,7,1296,,"Schulze Lünern,Heinrich",0 - 1,,"Beerli, Bruno",1373,4
+4,5,6,1309,,"Kruzinski,Gerald",½ - ½,,"Rouw,Cees",1359,5
+5,Bo.,No.,Rtg,,Name,Result,,Name,Rtg,No.
+6,1,6,1309,,"Kruzinski,Gerald",0,,bye,0,-1
+7,2,5,1359,,"Rouw,Cees",1 - 0,,"Schulze Lünern,Heinrich",1296,7
+8,3,4,1373,,"Beerli, Bruno",1 - 0,,"Hebenstreit,Walter",1256,8
+9,4,3,1382,,"Beddegenoodts,Marc",1 - 0,,"De Hoop,Roelof",1210,9
+10,5,2,1391,,"Priestley,Joseph",0 - 1,,"Mulder,Ben",1393,1
+11,Bo.,No.,Rtg,,Name,Result,,Name,Rtg,No.
+12,1,2,1391,,"Priestley,Joseph",0,,bye,0,-1
+13,2,1,1393,,"Mulder,Ben",1 - 0,,"Beddegenoodts,Marc",1382,3
+14,3,9,1210,,"De Hoop,Roelof",0 - 1,,"Beerli, Bruno",1373,4
+15,4,8,1256,,"Hebenstreit,Walter",1 - 0,,"Rouw,Cees",1359,5
+16,5,7,1296,,"Schulze Lünern,Heinrich",1 - 0,,"Kruzinski,Gerald",1309,6
+17,Bo.,No.,Rtg,,Name,Result,,Name,Rtg,No.
+18,1,7,1296,,"Schulze Lünern,Heinrich",0,,bye,0,-1
+19,2,6,1309,,"Kruzinski,Gerald",1 - 0,,"Hebenstreit,Walter",1256,8
+20,3,5,1359,,"Rouw,Cees",1 - 0,,"De Hoop,Roelof",1210,9
+21,4,4,1373,,"Beerli, Bruno",0 - 1,,"Mulder,Ben",1393,1
+22,5,3,1382,,"Beddegenoodts,Marc",1 - 0,,"Priestley,Joseph",1391,2
+23,Bo.,No.,Rtg,,Name,Result,,Name,Rtg,No.
+24,1,3,1382,,"Beddegenoodts,Marc",0,,bye,0,-1
+25,2,2,1391,,"Priestley,Joseph",- - +,,"Beerli, Bruno",1373,4
+26,3,1,1393,,"Mulder,Ben",1 - 0,,"Rouw,Cees",1359,5
+27,4,9,1210,,"De Hoop,Roelof",0 - 1,,"Kruzinski,Gerald",1309,6
+28,5,8,1256,,"Hebenstreit,Walter",1 - 0,,"Schulze Lünern,Heinrich",1296,7
+29,Bo.,No.,Rtg,,Name,Result,,Name,Rtg,No.
+30,1,8,1256,,"Hebenstreit,Walter",0,,bye,0,-1
+31,2,7,1296,,"Schulze Lünern,Heinrich",1 - 0,,"De Hoop,Roelof",1210,9
+32,3,6,1309,,"Kruzinski,Gerald",½ - ½,,"Mulder,Ben",1393,1
+33,4,5,1359,,"Rouw,Cees",+ - -,,"Priestley,Joseph",1391,2
+34,5,4,1373,,"Beerli, Bruno",0 - 1,,"Beddegenoodts,Marc",1382,3
+35,Bo.,No.,Rtg,,Name,Result,,Name,Rtg,No.
+36,1,4,1373,,"Beerli, Bruno",0,,bye,0,-1
+37,2,3,1382,,"Beddegenoodts,Marc",½ - ½,,"Rouw,Cees",1359,5
+38,3,2,1391,,"Priestley,Joseph",- - +,,"Kruzinski,Gerald",1309,6
+39,4,1,1393,,"Mulder,Ben",1 - 0,,"Schulze Lünern,Heinrich",1296,7
+40,5,9,1210,,"De Hoop,Roelof",0 - 1,,"Hebenstreit,Walter",1256,8
+41,Bo.,No.,Rtg,,Name,Result,,Name,Rtg,No.
+42,1,9,1210,,"De Hoop,Roelof",0,,bye,0,-1
+43,2,8,1256,,"Hebenstreit,Walter",½ - ½,,"Mulder,Ben",1393,1
+44,3,7,1296,,"Schulze Lünern,Heinrich",+ - -,,"Priestley,Joseph",1391,2
+45,4,6,1309,,"Kruzinski,Gerald",0 - 1,,"Beddegenoodts,Marc",1382,3
+46,5,5,1359,,"Rouw,Cees",1 - 0,,"Beerli, Bruno",1373,4
+47,Bo.,No.,Rtg,,Name,Result,,Name,Rtg,No.
+48,1,5,1359,,"Rouw,Cees",0,,bye,0,-1
+49,2,4,1373,,"Beerli, Bruno",0 - 1,,"Kruzinski,Gerald",1309,6
+50,3,3,1382,,"Beddegenoodts,Marc",1 - 0,,"Schulze Lünern,Heinrich",1296,7
+51,4,2,1391,,"Priestley,Joseph",- - +,,"Hebenstreit,Walter",1256,8
+52,5,1,1393,,"Mulder,Ben",1 - 0,,"De Hoop,Roelof",1210,9

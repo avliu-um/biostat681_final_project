@@ -1,0 +1,54 @@
+,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+0,1,1,SUI,1598,,,"Nadler, Bernhard",½ - ½,,"Menato,Nazario",,ITA,1409,10
+1,2,2,GER,1580,,,"Externbrink,Uwe",0 - 1,,"Badrakova,Kseniya",,RUS,1420,9
+2,3,3,GER,1571,,,"Marocsik,Ferenc",½ - ½,,"Saliba,Karl",,MLT,1506,8
+3,4,4,GER,1554,,,"Wagner,Dimitrij",0 - 1,,"Lenhard,Alexander",,GER,1515,7
+4,5,5,GER,1550,,,"Krause,Marianne",0 - 1,,"Birke,Stefanie",,GER,1543,6
+5,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+6,1,10,ITA,1409,,,"Menato,Nazario",½ - ½,,"Birke,Stefanie",,GER,1543,6
+7,2,7,GER,1515,,,"Lenhard,Alexander",0 - 1,,"Krause,Marianne",,GER,1550,5
+8,3,8,MLT,1506,,,"Saliba,Karl",0 - 1,,"Wagner,Dimitrij",,GER,1554,4
+9,4,9,RUS,1420,,,"Badrakova,Kseniya",½ - ½,,"Marocsik,Ferenc",,GER,1571,3
+10,5,1,SUI,1598,,,"Nadler, Bernhard",½ - ½,,"Externbrink,Uwe",,GER,1580,2
+11,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+12,1,2,GER,1580,,,"Externbrink,Uwe",1 - 0,,"Menato,Nazario",,ITA,1409,10
+13,2,3,GER,1571,,,"Marocsik,Ferenc",0 - 1,,"Nadler, Bernhard",,SUI,1598,1
+14,3,4,GER,1554,,,"Wagner,Dimitrij",½ - ½,,"Badrakova,Kseniya",,RUS,1420,9
+15,4,5,GER,1550,,,"Krause,Marianne",1 - 0,,"Saliba,Karl",,MLT,1506,8
+16,5,6,GER,1543,,,"Birke,Stefanie",½ - ½,,"Lenhard,Alexander",,GER,1515,7
+17,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+18,1,10,ITA,1409,,,"Menato,Nazario",0 - 1,,"Lenhard,Alexander",,GER,1515,7
+19,2,8,MLT,1506,,,"Saliba,Karl",1 - 0,,"Birke,Stefanie",,GER,1543,6
+20,3,9,RUS,1420,,,"Badrakova,Kseniya",½ - ½,,"Krause,Marianne",,GER,1550,5
+21,4,1,SUI,1598,,,"Nadler, Bernhard",½ - ½,,"Wagner,Dimitrij",,GER,1554,4
+22,5,2,GER,1580,,,"Externbrink,Uwe",1 - 0,,"Marocsik,Ferenc",,GER,1571,3
+23,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+24,1,3,GER,1571,,,"Marocsik,Ferenc",1 - 0,,"Menato,Nazario",,ITA,1409,10
+25,2,4,GER,1554,,,"Wagner,Dimitrij",1 - 0,,"Externbrink,Uwe",,GER,1580,2
+26,3,5,GER,1550,,,"Krause,Marianne",1 - 0,,"Nadler, Bernhard",,SUI,1598,1
+27,4,6,GER,1543,,,"Birke,Stefanie",½ - ½,,"Badrakova,Kseniya",,RUS,1420,9
+28,5,7,GER,1515,,,"Lenhard,Alexander",½ - ½,,"Saliba,Karl",,MLT,1506,8
+29,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+30,1,10,ITA,1409,,,"Menato,Nazario",0 - 1,,"Saliba,Karl",,MLT,1506,8
+31,2,9,RUS,1420,,,"Badrakova,Kseniya",1 - 0,,"Lenhard,Alexander",,GER,1515,7
+32,3,1,SUI,1598,,,"Nadler, Bernhard",1 - 0,,"Birke,Stefanie",,GER,1543,6
+33,4,2,GER,1580,,,"Externbrink,Uwe",½ - ½,,"Krause,Marianne",,GER,1550,5
+34,5,3,GER,1571,,,"Marocsik,Ferenc",1 - 0,,"Wagner,Dimitrij",,GER,1554,4
+35,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+36,1,4,GER,1554,,,"Wagner,Dimitrij",1 - 0,,"Menato,Nazario",,ITA,1409,10
+37,2,5,GER,1550,,,"Krause,Marianne",1 - 0,,"Marocsik,Ferenc",,GER,1571,3
+38,3,6,GER,1543,,,"Birke,Stefanie",0 - 1,,"Externbrink,Uwe",,GER,1580,2
+39,4,7,GER,1515,,,"Lenhard,Alexander",1 - 0,,"Nadler, Bernhard",,SUI,1598,1
+40,5,8,MLT,1506,,,"Saliba,Karl",0 - 1,,"Badrakova,Kseniya",,RUS,1420,9
+41,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+42,1,10,ITA,1409,,,"Menato,Nazario",- - +,,"Badrakova,Kseniya",,RUS,1420,9
+43,2,1,SUI,1598,,,"Nadler, Bernhard",1 - 0,,"Saliba,Karl",,MLT,1506,8
+44,3,2,GER,1580,,,"Externbrink,Uwe",½ - ½,,"Lenhard,Alexander",,GER,1515,7
+45,4,3,GER,1571,,,"Marocsik,Ferenc",1 - 0,,"Birke,Stefanie",,GER,1543,6
+46,5,4,GER,1554,,,"Wagner,Dimitrij",0 - 1,,"Krause,Marianne",,GER,1550,5
+47,Bo.,No.,FED,Rtg, ,,Name,Result,,Name, ,FED,Rtg,No.
+48,1,5,GER,1550,,,"Krause,Marianne",1 - 0,,"Menato,Nazario",,ITA,1409,10
+49,2,6,GER,1543,,,"Birke,Stefanie",1 - 0,,"Wagner,Dimitrij",,GER,1554,4
+50,3,7,GER,1515,,,"Lenhard,Alexander",½ - ½,,"Marocsik,Ferenc",,GER,1571,3
+51,4,8,MLT,1506,,,"Saliba,Karl",0 - 1,,"Externbrink,Uwe",,GER,1580,2
+52,5,9,RUS,1420,,,"Badrakova,Kseniya",0 - 1,,"Nadler, Bernhard",,SUI,1598,1
