@@ -8,4 +8,4 @@ as proxied by the number of upsets (i.e. low-ranked beating high-ranked player).
 
 Work for scraping was divided in two:
 - Scrape tournament and game information: scrape.ipynb
-- Scrape player-related attributes: chess_results_player_scraper_final.ipynb
+- Scrape player-related attributes: fide_scraper.ipynb and chess_results_player_scraper_final.ipynb
