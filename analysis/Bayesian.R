@@ -51,9 +51,9 @@ source("bayesian_logistic_regression_for_causal_inference.R")
 set.seed(2022)
 blr = bayesian_causal_inference_logistic_regression(X, y, A, 
                                                     a_0 = 1, b_0 = 1, a_1 = 1, b_1 = 1, 
-                                                    total_steps = 10000)
-hist(blr$tau_p_samples[5001:1000])
-quantile(blr$tau_p_samples[5001:10000], c(0.025, 0.975))
+                                                    total_steps = 50000)
+hist(blr$tau_p_samples[40001:50000])
+quantile(blr$tau_p_samples[40001:50000], c(0.025, 0.975))
 save(blr, file = "blr.rdata")
 
 beta_0 = colMeans(blr$beta_0_samples)
